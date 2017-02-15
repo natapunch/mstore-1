@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "b939e7518f9dfe71133a91fafa1f8b17",
+    "content-hash": "4ce6e0ade95f3f2fa57a9380b4f1decc",
+    "packages": [
+        {
+            "name": "mindk/framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ddavidov/mfram.git",
+                "reference": "301e39f60349f393033de6a80ee775664011d845"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ddavidov/mfram/zipball/301e39f60349f393033de6a80ee775664011d845",
+                "reference": "301e39f60349f393033de6a80ee775664011d845",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Mindk\\Framework\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "ddavidov",
+                    "email": "ddavidov@mindk.com"
+                }
+            ],
+            "description": "Sample FW",
+            "support": {
+                "source": "https://github.com/ddavidov/mfram/tree/master",
+                "issues": "https://github.com/ddavidov/mfram/issues"
+            },
+            "time": "2017-02-15 18:10:29"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "mindk/framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

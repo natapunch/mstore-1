@@ -1,0 +1,21 @@
+{
+    "name": "mindk/store",
+    "description": "Application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ddavidov",
+            "email": "ddavidov@mindk.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "mindk/framework": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ddavidov/mfram.git"
+        }
+    ]
+}

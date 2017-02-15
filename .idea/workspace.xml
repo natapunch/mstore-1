@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94449ebb-061b-41c8-91e0-badc0758b293" name="Default" comment="" />
+    <ignored path="test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DatabaseAdapters/DatabaseAdapters.php" />
+        <option value="$PROJECT_DIR$/Exceptions/IncorrectAdapterNameException.php" />
+        <option value="$PROJECT_DIR$/Exceptions/ParametersParseException.php" />
+        <option value="$PROJECT_DIR$/DatabaseAdapters/DatabaseAdapterI.php" />
+        <option value="$PROJECT_DIR$/DatabaseAdapters/OracleSQLAdapter.php" />
+        <option value="$PROJECT_DIR$/DatabaseAdapters/PostgreSQLAdapter.php" />
+        <option value="$PROJECT_DIR$/ConfigSingleton.php" />
+        <option value="$PROJECT_DIR$/DatabaseAdapterFactory.php" />
+        <option value="$PROJECT_DIR$/Autoloader.php" />
+        <option value="$PROJECT_DIR$/Classes/Best.php" />
+        <option value="$PROJECT_DIR$/Classes/Student.php" />
+        <option value="$PROJECT_DIR$/Classes/Generator.php" />
+        <option value="$PROJECT_DIR$/Classes/BestFilter.php" />
+        <option value="$PROJECT_DIR$/Classes/Group.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Page.php" />
+        <option value="$PROJECT_DIR$/public/.htaccess" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1231" />
+    <option name="y" value="54" />
+    <option name="width" value="1221" />
+    <option name="height" value="638" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.5.0/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94449ebb-061b-41c8-91e0-badc0758b293" name="Default" comment="" />
+      <created>1484153865220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484153865220</updated>
+      <workItem from="1484153866678" duration="1415000" />
+      <workItem from="1484759293445" duration="93000" />
+      <workItem from="1484759471464" duration="4604000" />
+      <workItem from="1484768436793" duration="2447000" />
+      <workItem from="1485179508831" duration="408000" />
+      <workItem from="1485338373317" duration="7115000" />
+      <workItem from="1485364364763" duration="5036000" />
+      <workItem from="1487181082666" duration="817000" />
+      <workItem from="1487182595731" duration="1885000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23820000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1231" y="54" width="1221" height="638" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2915643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16118143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/Classes/Generator.php" />
+    <entry file="file://$PROJECT_DIR$/Autoloader.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/DatabaseAdapterI.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/OracleSQLAdapter.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/PostgreSQLAdapter.php" />
+    <entry file="file://$PROJECT_DIR$/Exceptions/ParametersParseException.php" />
+    <entry file="file://$PROJECT_DIR$/Autoloader.php" />
+    <entry file="file://$PROJECT_DIR$/Exceptions/IncorrectAdapterNameException.php" />
+    <entry file="file://$PROJECT_DIR$/ConfigSingleton.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapterFactory.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/DatabaseAdapterI.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/OracleSQLAdapter.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/PostgreSQLAdapter.php" />
+    <entry file="file://$PROJECT_DIR$/Exceptions/ParametersParseException.php" />
+    <entry file="file://$PROJECT_DIR$/Autoloader.php" />
+    <entry file="file://$PROJECT_DIR$/Exceptions/IncorrectAdapterNameException.php" />
+    <entry file="file://$PROJECT_DIR$/ConfigSingleton.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapterFactory.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/DatabaseAdapters.php" />
+    <entry file="file://$PROJECT_DIR$/Exceptions/IncorrectAdapterNameException.php" />
+    <entry file="file://$PROJECT_DIR$/ConfigSingleton.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapterFactory.php" />
+    <entry file="file://$PROJECT_DIR$/Exceptions/ParametersParseException.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/OracleSQLAdapter.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/DatabaseAdapterI.php" />
+    <entry file="file://$PROJECT_DIR$/DatabaseAdapters/PostgreSQLAdapter.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="1793" column="6" selection-start-line="1793" selection-start-column="6" selection-end-line="1793" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoloader.php" />
+    <entry file="file://$PROJECT_DIR$/Classes/Generator.php" />
+    <entry file="file://$PROJECT_DIR$/Classes/Student.php" />
+    <entry file="file://$PROJECT_DIR$/Classes/BestFilter.php" />
+    <entry file="file://$PROJECT_DIR$/Classes/Group.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mindk/framework/src/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487181713213" expanded="true" signature="38:89" ph=" Class Application ..." />
+            <marker date="1487181713213" expanded="true" signature="109:114" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_namespaces.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_psr4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487182320925" expanded="true" signature="139:212" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <marker date="1487182320925" expanded="true" signature="112:1309" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="194:324" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="258:317" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="364:1307" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="408:451" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="879:933" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="1038:1096" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="1187:1241" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/ClassLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487182320925" expanded="false" signature="9:265" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="302:1367" ph=" ClassLoader implements a PSR-0, PSR-4 and classmap class loader. ..." />
+            <marker date="1487182320925" expanded="true" signature="1387:12321" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="1767:1934" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="1816:1902" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="1973:2023" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="2062:2114" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="2157:2209" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="2244:2288" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="2297:2355" ph=" @param array $classMap Class to filename map ..." />
+            <marker date="1487182320925" expanded="true" signature="2406:2588" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="2443:2523" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="2531:2581" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="2597:2937" ph=" Registers a set of PSR-0 directories for a given prefix, either ..." />
+            <marker date="1487182320925" expanded="true" signature="2998:4003" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="3028:3429" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3056:3223" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3111:3208" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3231:3398" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3286:3383" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3520:3617" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3642:3815" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3706:3804" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3823:3996" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="3887:3985" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="4012:4436" ph=" Registers a set of PSR-4 directories for a given namespace, either ..." />
+            <marker date="1487182320925" expanded="true" signature="4501:5939" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="4531:4971" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="4619:4786" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="4674:4771" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="4794:4961" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="4849:4946" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="5022:5438" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="5167:5298" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="5459:5692" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="5589:5681" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="5700:5932" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="5829:5921" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="5948:6193" ph=" Registers a set of PSR-0 directories for a given prefix, ..." />
+            <marker date="1487182320925" expanded="true" signature="6236:6424" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="6266:6329" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="6337:6417" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="6433:6762" ph=" Registers a set of PSR-4 directories for a given namespace, ..." />
+            <marker date="1487182320925" expanded="true" signature="6809:7276" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="6839:6902" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="6910:7269" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="6998:7129" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="7285:7393" ph=" Turns on searching the include path for class files. ..." />
+            <marker date="1487182320925" expanded="true" signature="7450:7511" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="7520:7650" ph=" Can be used to check if the autoloader uses the include path to check ..." />
+            <marker date="1487182320925" expanded="true" signature="7692:7742" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="7751:7938" ph=" Turns off searching the prefix and fallback directories for classes ..." />
+            <marker date="1487182320925" expanded="true" signature="8009:8084" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="8093:8197" ph=" Should class lookup fail if not found in the current class map? ..." />
+            <marker date="1487182320925" expanded="true" signature="8245:8302" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="8311:8442" ph=" Registers this instance as an autoloader. ..." />
+            <marker date="1487182320925" expanded="true" signature="8491:8577" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="8586:8643" ph=" Unregisters this instance as an autoloader. ..." />
+            <marker date="1487182320925" expanded="true" signature="8678:8750" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="8759:8925" ph=" Loads the given class or interface. ..." />
+            <marker date="1487182320925" expanded="true" signature="8965:9092" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="9018:9085" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="9101:9296" ph=" Finds the path to the file where the class is defined. ..." />
+            <marker date="1487182320925" expanded="true" signature="9335:10138" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="9446:9495" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="9571:9624" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="9669:9704" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="9885:9959" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="9991:10108" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="10196:12319" ph="{...}" />
+            <marker date="1487182320925" expanded="true" signature="10386:10835" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="10465:10825" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="10518:10811" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="10589:10793" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="10704:10771" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="10920:11059" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="11006:11049" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="11139:11341" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="11349:11473" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="11525:11925" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="11597:11915" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="11650:11901" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="11696:11883" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="11794:11861" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="12010:12149" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="12096:12139" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="12277:12312" ph="..." />
+            <marker date="1487182320925" expanded="true" signature="12326:12412" ph=" Scope isolated include. ..." />
+            <marker date="1487182320925" expanded="true" signature="12442:12465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/mindk/framework/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <marker date="1487182320909" expanded="true" signature="0:351" ph="{&quot;name&quot;: &quot;mindk/framework&quot;...}" />
+            <marker date="1487182320909" expanded="true" signature="102:203" ph="[...]" />
+            <marker date="1487182320909" expanded="true" signature="112:197" ph="{&quot;name&quot;: &quot;ddavidov&quot;...}" />
+            <marker date="1487182320909" expanded="true" signature="221:298" ph="{...}" />
+            <marker date="1487182320909" expanded="true" signature="240:292" ph="{&quot;Mindk\Framework\&quot;: &quot;src/&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <marker date="1487181670728" expanded="true" signature="0:434" ph="{&quot;name&quot;: &quot;mindk/store&quot;...}" />
+            <marker date="1487181670728" expanded="true" signature="100:201" ph="[...]" />
+            <marker date="1487181670728" expanded="true" signature="110:195" ph="{&quot;name&quot;: &quot;ddavidov&quot;...}" />
+            <marker date="1487181670728" expanded="true" signature="250:297" ph="{&quot;mindk/framework&quot;: &quot;dev-master&quot;...}" />
+            <marker date="1487181670728" expanded="true" signature="319:432" ph="[...]" />
+            <marker date="1487181670728" expanded="true" signature="329:426" ph="{&quot;type&quot;: &quot;vcs&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <marker date="1487183497144" expanded="false" signature="9:85" ph=" Created by PhpStorm. ..." />
+            <marker date="1487183497144" expanded="true" signature="115:176" ph="{...}" />
+            <marker date="1487183497144" expanded="true" signature="145:173" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
