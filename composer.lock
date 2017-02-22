@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ddavidov/mfram.git",
-                "reference": "301e39f60349f393033de6a80ee775664011d845"
+                "reference": "3f23bc59bf5bfcf38aa13edee41fa2420470723a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ddavidov/mfram/zipball/301e39f60349f393033de6a80ee775664011d845",
-                "reference": "301e39f60349f393033de6a80ee775664011d845",
+                "url": "https://api.github.com/repos/ddavidov/mfram/zipball/3f23bc59bf5bfcf38aa13edee41fa2420470723a",
+                "reference": "3f23bc59bf5bfcf38aa13edee41fa2420470723a",
                 "shasum": ""
             },
             "type": "library",
@@ -38,10 +38,10 @@
             ],
             "description": "Sample FW",
             "support": {
-                "source": "https://github.com/ddavidov/mfram/tree/master",
+                "source": "https://github.com/ddavidov/mfram/tree/dev-exp",
                 "issues": "https://github.com/ddavidov/mfram/issues"
             },
-            "time": "2017-02-15 18:10:29"
+            "time": "2017-02-21 19:05:35"
         }
     ],
     "packages-dev": [],
