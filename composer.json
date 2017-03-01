@@ -14,8 +14,8 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/ddavidov/mfram.git"
+            "type": "path",
+            "url": "/home/sites/fram"
         }
     ]
 }

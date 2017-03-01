@@ -4,22 +4,17 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b939e7518f9dfe71133a91fafa1f8b17",
-    "content-hash": "4ce6e0ade95f3f2fa57a9380b4f1decc",
+    "hash": "70b6ac0580464cccb8ee90b65a643b37",
+    "content-hash": "012fb6b2d87db2aa672efa2eb0c210cb",
     "packages": [
         {
             "name": "mindk/framework",
             "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/ddavidov/mfram.git",
-                "reference": "3ec15505882fc6fa37b03d294e05212c2ef44c52"
-            },
             "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/ddavidov/mfram/zipball/3ec15505882fc6fa37b03d294e05212c2ef44c52",
-                "reference": "3ec15505882fc6fa37b03d294e05212c2ef44c52",
-                "shasum": ""
+                "type": "path",
+                "url": "/home/sites/fram/",
+                "reference": "bd5efa64bacfd89ccfab8dbf1ad04a7ce8e7111d",
+                "shasum": null
             },
             "type": "library",
             "autoload": {
@@ -36,12 +31,7 @@
                     "email": "ddavidov@mindk.com"
                 }
             ],
-            "description": "Sample FW",
-            "support": {
-                "source": "https://github.com/ddavidov/mfram/tree/master",
-                "issues": "https://github.com/ddavidov/mfram/issues"
-            },
-            "time": "2017-02-22 18:03:20"
+            "description": "Sample FW"
         }
     ],
     "packages-dev": [],

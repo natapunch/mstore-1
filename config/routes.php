@@ -4,20 +4,20 @@ return [
     "root" => [
         "pattern" => "/",
         "method" => "GET",
-        "action" => "IndexController@index"
+        "action" => "Mystore\\IndexController@index"
     ],
-    "get_all_goods" =>
+    "product_list" =>
         [
-            "pattern" => "/good",
+            "pattern" => "/product",
             "method" => "GET",
             "action" => "GoodController@getAllGoods"
         ],
-    "get_one_good" => [
-        "pattern" => "/good/{id}/params/{name}",
+    "single_product" => [
+        "pattern" => "/product/{id}/params/{name}",
         "method" => "GET",
         "variables" => [
             "id" => "\d+"
         ],
-        "action" => "GoodController@getOneGood"
+        "action" => "Mystore\\IndexController@getProduct"
     ]
 ];
