@@ -8,8 +8,10 @@
 
 namespace Mystore;
 
+use Mindk\Framework\Request\Request;
 use Mindk\Framework\Response\JsonResponse;
-use Mindk\Framework\Response\Response;
+use Mindk\Framework\Response\RedirectResponse;
+use Mindk\Framework\Router\Router;
 
 /**
  * Class IndexController
@@ -22,7 +24,7 @@ class IndexController
      */
     public function index(){
 
-        $response = new JsonResponse(['test' => 11]);
+        $response = new RedirectResponse('/product/11');
 
         return $response;
 
@@ -31,8 +33,8 @@ class IndexController
     /**
      * Single prod
      */
-    public function getProduct($id, $name){
+    public function getProduct($id){
 
-        echo sprintf("Hi! You requested %s with %s color", $id, $name);
+        echo sprintf("Hi! You requested %s with color", $id);
     }
 }

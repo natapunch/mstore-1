@@ -13,7 +13,7 @@ return [
             "action" => "GoodController@getAllGoods"
         ],
     "single_product" => [
-        "pattern" => "/product/{id}/params/{name}",
+        "pattern" => "/product/{id}",
         "method" => "GET",
         "variables" => [
             "id" => "\d+"
