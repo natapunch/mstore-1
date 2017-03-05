@@ -27,7 +27,6 @@ class IndexController
         $response = new RedirectResponse('/product/11');
 
         return $response;
-
     }
 
     /**
